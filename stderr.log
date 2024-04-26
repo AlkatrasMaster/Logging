@@ -1,0 +1,6 @@
+17:21:22.137 [main] DEBUG example.gradle.App - Debug message is written in console
+17:21:22.140 [main] INFO  example.gradle.App - Info message is written to stdout.log
+17:21:22.141 [main] ERROR example.gradle.App - Error message is written to stderr.log
+17:23:59.909 [main] DEBUG example.gradle.App - Debug message is written in console
+17:23:59.911 [main] INFO  example.gradle.App - Info message is written to stdout.log
+17:23:59.912 [main] ERROR example.gradle.App - Error message is written to stderr.log
