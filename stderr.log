@@ -1,0 +1,2 @@
+14:59:23.458 [main] ERROR example.logging.App - Error message is written to stderr.log 
+15:10:08.404 [main] ERROR example.logging.App - Error message is written to stderr.log 

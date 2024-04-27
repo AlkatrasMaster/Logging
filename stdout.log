@@ -1,0 +1,2 @@
+14:59:23.456 [main] INFO  example.logging.App - Info message is written to stdout.log
+15:10:08.403 [main] INFO  example.logging.App - Info message is written to stdout.log
